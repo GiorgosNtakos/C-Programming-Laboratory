@@ -125,7 +125,7 @@ c-programming-laboratory/
 
 ## 🔐 **License**
 These solutions represent my personal work for academic laboratory exercises.  
-They are provided for learning and reference only.  
-Please do not submit them as your own coursework.
+They are provided for **learning and reference only**.  
+**Please do not submit them as your own coursework**.
 
 **All Rights Reserved.**
