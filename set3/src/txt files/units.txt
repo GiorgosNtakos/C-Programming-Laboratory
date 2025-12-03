@@ -1,0 +1,10 @@
+Peon          0  20 -10   1
+Grunt         2  30   5   2
+Troll         3  20  10   3
+Rider         5  40  15   4
+warlock       9  85  20   5
+shaman        7  50  10   6
+goblin_miner  0  35 -20   7
+ogre_warrior 10 100  30   8
+assasin       8  60  15   9
+catapult     15 150  50  10
